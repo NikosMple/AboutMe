@@ -1,0 +1,127 @@
+body {
+  background-color: #1e1e1e;  
+  color: #cfcfcf;
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1,6;
+  font-size: large;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  background-color: #2b2b2b;
+}
+
+.header h1 {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+  color: #FFC300;
+  text-align: center;
+}
+
+.title {
+  font-size: 1.3em;
+  color: #FFC300;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.contact, a {
+  color: #6cd5c3;
+  text-align: center;
+}
+
+.experience, .education {
+  margin-top: 40px;
+}
+
+h2 {
+  border-bottom: 1px solid #333;
+  color: #ffcc66;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.5em;
+  color: #42b5b3;
+}
+
+h4 {
+  font-size: 1.2em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #ffffff;
+}
+
+.date {
+  font-style: italic;
+  float: right;
+  color: #999;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+.bullet {
+  color: white;
+}
+
+.skills-section {
+  margin: 20px 0;
+}
+
+.hard-skills {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px; 
+}
+
+.soft-skills {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 20px; 
+  text-align: center;
+}
+
+.skill-category {
+  flex: 1;
+  min-width: 100px; 
+  max-width: 250px; 
+  margin: 10px;
+}
+
+.skill-category h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.skill-category ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.skill-category li {
+  margin-bottom: 8px;
+  font-size: 16px;
+}
+
+.summary {
+  text-align: center;
+  letter-spacing: 0.1rem
+}
+
+.thesis-list {
+  line-height: 1.6;
+}
