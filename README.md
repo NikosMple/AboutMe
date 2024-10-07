@@ -1,1 +1,2 @@
-Welcome to my personal Resume 🥳
+Welcome to my personal Resume. 🥳
+I have created only with HTML & CSS. It's pretty simple but beautiful. 🫠 🤷‍♂️
